@@ -1,0 +1,7 @@
+New log file opened at Tue Mar 01 15:04:24 JST 2016 by 54300@keima-2.local
+Taking next connection to: 26992
+New client attempting to connect on port: 26993-26992
+  Address = /172.29.17.69:26992
+This client on port 26993 has uuid 781af950-ca67-4a7e-9c81-aa225b100925 configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-781af950-ca67-4a7e-9c81-aa225b100925
+Taking next connection to: 26992
